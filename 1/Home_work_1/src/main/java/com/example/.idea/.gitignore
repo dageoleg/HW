@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../../:\НИИТ\Обучающие курсы\Spring\Курс Андрей Тарасов\Lesson_1\Home_work_1\src\main\java\com\example\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
